@@ -2,7 +2,7 @@ hi, eu sou a moon or toshinori🌙
 Eu sou estudante da escola José Marcelino🏫
 Meu principal objetivo no Githug é estudar as aulas do Alura
 
-As principais linguagens de programação que eu butilizo são🌻:
+As principais linguagens de programação que eu utilizo são🌻:
 
 - Strach;🐈
 - JavaScript.🖥️
